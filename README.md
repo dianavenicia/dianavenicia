@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="89ceb3593e03ff169ffc539ec6e9880d.jpg">
+smiilee for the photo id....
+
+![Image](https://github.com/user-attachments/assets/af9ce6be-00a8-40c9-87c4-9f8752d8d77d)
 
 <!---
 dianavenicia/dianavenicia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
