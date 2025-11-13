@@ -1,8 +1,8 @@
 <div align="center">
 
-![Image](https://github.com/user-attachments/assets/af9ce6be-00a8-40c9-87c4-9f8752d8d77d)
+![Image](https://github.com/user-attachments/assets/5e3a16e8-23e5-48e1-8aac-53b69d953a49)
 
-tifa lockhart hmu 
+me and who brah
 
 <!---
 dianavenicia/dianavenicia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
